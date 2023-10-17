@@ -47,7 +47,7 @@ Conheça o Streamlit, uma ferramenta poderosa para construção rápida de aplic
 **Tarefas:**
 1. Clone/navegue até a pasta `roteiro_2`.
 2. Examine o código e note que o botão já interage com o slider.
-3. Implemente a lógica para que o valor do slider, checkbox, radio e selectbox sejam exibidos no label ao clicar no botão.
+3. Implemente a lógica para que o valor do slider, checkbox, radio e selectbox sejam exibidos no label ao clicar no botão (Adicione os elementos consultando a documentação no link abaixo).
 4. Adicione um componente "toggle" ao layout.
 
 **[widgets do Streamlit](https://docs.streamlit.io/library/api-reference/widgets)**
